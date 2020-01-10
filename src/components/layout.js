@@ -23,7 +23,9 @@ function getFromLocalStorage(id, classes) {
 }
 function setInLocalStorage(value, id) {
   //localStorage[`${id}_selectedClass`] = JSON.stringify(value);
-  localStorage[`${id}_selectedClass`] = value;
+  if(typeof window !== "undefined") {
+    localStorage[`${id}_selectedClass`] = value;
+  }
 }
 
 const StyleContext = React.createContext({});
