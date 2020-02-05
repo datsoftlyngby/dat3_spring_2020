@@ -16,5 +16,5 @@ isSP: true
 
 ## Part-2 Aflever besvarelser og https link på PeerGrade
 
-Placerer dine tirs- og onsdagsbesvarelser på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og indsæt et link i PeerGrade under uge 35 som aflevering.
-Alternativt kan du uploade dine besvarelser i et tekstdokument på PeerGrade.
+Placerer dine tirs- og onsdagsbesvarelser på en side, der skal kunne tilgås via dit domænenavn vha HTTPS - og send links til iwantstudypoints@gmail.com
+
