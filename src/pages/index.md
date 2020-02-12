@@ -15,6 +15,9 @@ The course is divided up into five Periods:
   [See intro slides for details](https://docs.google.com/presentation/d/14v_H3mTtu1iKenP62-FEhNcAQHwTM0UjSTv_kuX_gjI/edit?usp=sharing)
   <!--END slides ##-->
 
+## Slack Workspace
+[slack for 3 semester DAT](https://3semspring2020.slack.com)
+
 ## Teachers
 
 | Teacher        | Mail                | Zoom Id                                                                          | Snippet-file                                                                                                |
