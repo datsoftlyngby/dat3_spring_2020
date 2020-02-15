@@ -1,6 +1,6 @@
 ---
 title: "Friday Exercises (SP4)"
-date : '20-09-2019'
+date : '28-02-2020'
 decorator: "SP4 (#date#)"
 isSP: true
 ---
