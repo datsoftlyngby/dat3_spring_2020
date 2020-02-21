@@ -1,6 +1,6 @@
 ---
 title: "Study Point friday 5"
-date : '27-09-2019'
+date : '06-03-2020'
 decorator: "SP5 (#date#)"
 isSP: true
 ---
