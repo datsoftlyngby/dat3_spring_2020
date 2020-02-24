@@ -10,6 +10,6 @@ date: "Groups/Reviews"
 
 ## Opdeling i de to reviewgrupper pr. klasse
 <!--BEGIN admin ##-->
-[Review Groups A-class)](#/tbd)
-[Review Groups B-class](https://docs.google.com/spreadsheets/d/1RIE8beMCXxOxojUlHNkZFrZ8G1g9Ra2XZEX1sYcfyyQ/edit#gid=0)
+[Groups](https://docs.google.com/spreadsheets/d/119N_UlCRVaUI991iN_pEclZuz2ojUGZrsrN_a6ZO4fI/edit?usp=sharing
+)
 <!--END admin ##-->
