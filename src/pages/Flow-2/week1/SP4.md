@@ -26,21 +26,12 @@ isSP: true
 
  ### Opgaver herunder er kun for jer der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem.
  
- <!--BEGIN exercises_exam-prep ##-->
- 
  - [JPA and JPQL (entity classes from existing table)](https://docs.google.com/document/d/1mZ90qI9Itic0scu0D4kXwj4YEvlE7dAm9Js9nDnAtZk/edit?usp=sharing)
-
-<!--END exercises_exam-prep ##-->
-
-<!--BEGIN exam-prep ##-->
 
 - [REST and JSON (relatively simple Exam-prep without a database)](https://docs.google.com/document/d/1SqTQBWib6PHOJB2O8i9LXRy3P4Xx76ZxXPPBdQFMcac/edit?usp=sharing)
 
-<!--END exam-prep ##-->
-
-<!--BEGIN exercises ##-->
 - [Quering with JPA (extra for RED students)](https://docs.google.com/document/d/1hgnX_i5gBlzp6s9SLJqsf186-NBolzeVQBBO5qtR6ag/edit?usp=sharing)
-<!--END exercises ##-->
+
 
 
 
