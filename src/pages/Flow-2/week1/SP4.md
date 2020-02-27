@@ -18,10 +18,9 @@ isSP: true
 
 ## Part-2
 
-<!--BEGIN exercises_exam-prep ##-->
- [Object Relational Mapping (exam-prep) (først givet i onsdags)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
+ <!--BEGIN exercises_exam-prep ##-->
+ - [ORM + JPQL (exam-prep)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
  <!--END exercises_exam-prep ##-->
-
 
  ### Opgaver herunder er kun for jer der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem.
  
