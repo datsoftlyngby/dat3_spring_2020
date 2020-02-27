@@ -12,11 +12,11 @@ isSP: true
 <!--END guides ##-->
 
 
-## Part-1 Complete all exercises (according to your colour level) from this week
+## Part-1 Complete all exercises from this week
 
 <!--PeriodExercises Flow-2/week1 PeriodExercises--> 
 
-## Part-2
+## Part-2 Complete this exercise
 
  <!--BEGIN exercises_exam-prep ##-->
  - [ORM + JPQL (exam-prep)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
