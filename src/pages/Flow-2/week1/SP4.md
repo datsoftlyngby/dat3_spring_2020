@@ -19,7 +19,9 @@ isSP: true
 ## Part-2 Complete this exercise
 
  <!--BEGIN exercises_exam-prep ##-->
+ 
  - [ORM + JPQL (exam-prep)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
+ 
  <!--END exercises_exam-prep ##-->
 
  ### Opgaver herunder er kun for jer der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem.
@@ -27,10 +29,13 @@ isSP: true
  <!--BEGIN exercises_exam-prep ##-->
  
  - [JPA and JPQL (entity classes from existing table)](https://docs.google.com/document/d/1mZ90qI9Itic0scu0D4kXwj4YEvlE7dAm9Js9nDnAtZk/edit?usp=sharing)
+
 <!--END exercises_exam-prep ##-->
 
 <!--BEGIN exam-prep ##-->
+
 - [REST and JSON (relatively simple Exam-prep without a database)](https://docs.google.com/document/d/1SqTQBWib6PHOJB2O8i9LXRy3P4Xx76ZxXPPBdQFMcac/edit?usp=sharing)
+
 <!--END exam-prep ##-->
 
 <!--BEGIN exercises ##-->
