@@ -16,7 +16,17 @@ isSP: true
 
 <!--PeriodExercises Flow-2/week1 PeriodExercises--> 
 
-## Opgaver herunder er kun for jer der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem. Men det er god træning
+## Part-2 Complete this exercise
+
+ <!--BEGIN exercises_exam-prep ##-->
+ 
+ - [ORM + JPQL (exam-prep)](https://docs.google.com/document/d/1Vm1sa-aGGsMZQB4EYIk0Zgkegg6kkyhikCgYQCP6GoQ/edit?usp=sharing)
+ 
+ <!--END exercises_exam-prep ##-->
+
+ ### Part-3 Ekstraopgaver.
+ 
+ Opgaverne herunder er kun for jer, der ikke kan få nok, og er IKKE noget vi forventer I kommer igennem.
  
  - [JPA and JPQL (entity classes from existing table)](https://docs.google.com/document/d/1mZ90qI9Itic0scu0D4kXwj4YEvlE7dAm9Js9nDnAtZk/edit?usp=sharing)
 
