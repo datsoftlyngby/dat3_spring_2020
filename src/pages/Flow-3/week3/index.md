@@ -1,7 +1,8 @@
 ---
-shortTitle: "week3"
-title: "Client Routing + Security"
+shortTitle: "week3 (CA3)"
+title: "CA-3 (in groups)"
 --- 
+CA-3 (in groups)
 
 ## Business competences 
 
