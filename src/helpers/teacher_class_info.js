@@ -5,7 +5,7 @@ export default function getDayInfo(data, selectedClass) {
   const timeEditURL = data.site.siteMetadata.timeEdit;
 
   if (!selectedClass) {
-    console.warn("No Class Selected, cannot provide class details");
+    console.log("No Class Selected, cannot provide class details");
     //return dayInfo;
   }
   const infoForDay = data.dayInfo;

@@ -23,7 +23,7 @@ function getFromLocalStorage(id, classes) {
 }
 function setInLocalStorage(value, id) {
   //localStorage[`${id}_selectedClass`] = JSON.stringify(value);
-  if(typeof window !== "undefined") {
+  if (typeof window !== "undefined") {
     localStorage[`${id}_selectedClass`] = value;
   }
 }
@@ -129,7 +129,9 @@ class Container extends React.Component {
             //node.sortField = shortTitle
             .toString()
             .toLowerCase();
+          //console.log("-->", shortTitle + " - " + node.sortField)
         }
+
         return include;
       })
       .sort((a, b) => (a.sortField >= b.sortField ? 1 : -1));
@@ -137,7 +139,7 @@ class Container extends React.Component {
   };
 
   render() {
-    
+
     const data = this.props;
     const nodes = data.allMarkdownRemark.nodes;
 

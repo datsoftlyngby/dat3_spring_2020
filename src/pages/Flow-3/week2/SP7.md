@@ -14,4 +14,3 @@ isSP: true
 By the end of this friday your semester project MUST be defined and approved.
 
 CA-3 next week requires this
-

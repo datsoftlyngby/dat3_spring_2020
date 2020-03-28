@@ -16,17 +16,17 @@ function getDayInWeekFromDkDate(input) {
   ];
   return days[dayInWeek];
 }
-function getNumbersFromString(str){
+function getNumbersFromString(str) {
   let newString = "";
-  for(let i = 0; i < str.length;i++){
-    if(!isNaN(str[i])){
+  for (let i = 0; i < str.length; i++) {
+    if (!isNaN(str[i])) {
       newString += str[i]
     }
   }
   return Number(newString);
 }
 function getDateFromDkDate(date) {
-  if(date === null){
+  if (date === null) {
     return date;
   }
   const dp = date.split("-");
@@ -35,13 +35,19 @@ function getDateFromDkDate(date) {
     return date;
   }
   //This ensures you can sort on dates, even for strings like (SP2) (30-08-2019)
-  const day = getNumbersFromString(dp[2]);
+  const day = getNumbersFromString(dp[0]);
   const month = getNumbersFromString(dp[1]);
-  const year = getNumbersFromString(dp[0]);
-  try{
-  const aDate = new Date(day,month,year).getTime();
-  return aDate;
-  } catch (ex){
+  const year = getNumbersFromString(dp[2]);
+  // const day = getNumbersFromString(dp[2]);
+  // const month = getNumbersFromString(dp[1]);
+  // const year = getNumbersFromString(dp[0]);
+  try {
+    //console.log("d,m,y,date", day, month, year, new Date(2020, 3, 1).toString())
+    //const aDate = new Date(day, month, year).getTime();
+    const aDate = new Date(year, month - 1, day).getTime();
+    return aDate;
+  } catch (ex) {
+    console.log("UPS")
     return null;
   }
   //return new Date(dp[2], dp[1] - 1, dp[0]).getTime();
