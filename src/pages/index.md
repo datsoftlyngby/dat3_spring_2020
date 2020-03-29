@@ -23,7 +23,7 @@ The course is divided up into five Periods:
 | Teacher        | Mail                | Zoom Id                                                                          | Snippet-file                                                                                                |
 | -------------- | ------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Thomas Hartman | tha@cphbusiness.dk  | [https://deic.zoom.us/my/thomashartmann](https://deic.zoom.us/my/thomashartmann) | -                                                                                                           |
-| Lars Mortensen | lam@cphbusiness.dk  | [https://deic.zoom.us/my/larsmortensen](https://deic.zoom.us/my/larsmortensen)   | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
+| Lars Mortensen | lam@cphbusiness.dk  | [https://deic.zoom.us/my/larsmortensen]( https://cphbusiness.zoom.us/my/larsmortensen)   | [snippet](https://docs.google.com/document/d/1s-Uczqyj0AQG1Kc2pD43M-xr9en3DvPUxRv0rX27u0I/edit?usp=sharing) |
 | Jon Bertelsen  | jobe@cphbusiness.dk | [https://deic.zoom.us/my/jonbertelsen](https://deic.zoom.us/my/jonbertelsen)     | -                                                                                                           |
 
 ## Exam
