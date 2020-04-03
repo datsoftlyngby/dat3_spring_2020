@@ -9,6 +9,8 @@ isSP: true
 
 <!--PeriodExercises Flow-3/week2 PeriodExercises-->
 
+Hand-in, no later than April 12th. 14.00
+
 ## Part-2
 
 By the end of this friday your semester project MUST be defined and approved.
