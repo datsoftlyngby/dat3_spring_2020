@@ -1,8 +1,8 @@
 ---
-shortTitle: "Flow4-P"
-title: "Semester Project"
+shortTitle: "Flow4 part1"
+title: "System development"
 --- 
-<br/>
-Combined project for Programming/Tech and SYS, done over three consecutive weeks (one week = one sprint)
-
-More details will follow
+### structure
+In this flow we have 2 weeks. First week before the semester project and second week after the project.
+ 1. First week
+ 2. Second week
